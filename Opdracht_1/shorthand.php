@@ -1,5 +1,5 @@
 <?php 
-   $Naam = "Henk";
+   $Naam = "Rayan";
    $leeftijd = 18;
    $programmeertaal = "PHP";
 ?>
