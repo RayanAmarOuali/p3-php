@@ -14,7 +14,7 @@ $ingelogd = true;
     <H1>Hoi</H1>
     <p>
         <?php
-        if ($ingelogd == true) {
+        if ($ingelogd === true) {
             echo "Welkom terug!";
         } else {
             echo "Log eerst in";
